@@ -1,0 +1,34 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+h1 {
+    height: 50vh;
+    margin: 0;
+    color: white;
+}
+
+main {
+    font-size: 20px;
+    padding: 0 20% 0;
+}
+
+.imgpresetation {
+    background: url(images/imgbackground.png) no-repeat top / cover;
+    width: auto;
+    height: 50vh;
+}
+
+.video {
+    background-color: purple;
+    padding: 5vh;
+}
+
+strong {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+
+}
